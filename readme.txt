@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: aarontgrogg
-Tags: body, class
+Tags: body, admin, class
 Requires at least: 3.1
 Tested up to: 3.3.1
 Stable tag: 1.0
@@ -11,7 +11,7 @@ Add Custom Post Type Slugs to Admin `&lt;body&gt;` Class
 
 == Description ==
 
-When in Admin mode, this plug-in adds classes to the `&lt;body&gt;` tag to let
+When in Admin mode, this plug-in adds classes to the `<body>` tag to let
 your CSS know where you are.
 
 For example, if you are viewing the list of all your Posts, you would get this additional class:
