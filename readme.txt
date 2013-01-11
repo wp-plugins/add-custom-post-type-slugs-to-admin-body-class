@@ -2,8 +2,8 @@
 Contributors: aarontgrogg
 Tags: body, admin, class
 Requires at least: 3.1
-Tested up to: 3.3.1
-Stable tag: 1.0
+Tested up to: 3.5
+Stable tag: 1.1
 
 
 Add Custom Post Type Slugs to Admin `&lt;body&gt;` Class
