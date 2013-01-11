@@ -3,8 +3,8 @@
 /*
 	Plugin Name: Add Custom Post Type Slugs to Admin Body Class
 	Plugin URI: http://aarontgrogg.com/2012/02/15/wordpress-plugin-add-custom-post-type-to-admin-body-class/
-	Description: Add additional `&lt;body&gt;` classes to reflect which Admin editorial page you are viewing and which Post type you are editing.
-	Version: 1.0
+	Description: Add additional `body` classes to reflect which Admin editorial page you are viewing and which Post type you are editing.
+	Version: 1.1
 	Author: Aaron T. Grogg
 	Author URI: http://aarontgrogg.com/
 	License: GPLv2 or later
